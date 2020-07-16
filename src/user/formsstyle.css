@@ -1,0 +1,32 @@
+.forms{
+    box-shadow: 1px 1px 10px rgb(145, 143, 143);
+    padding: 50px;
+    border-radius: 4px;
+    }
+
+
+.division{
+    box-shadow: 1px 1px 5px rgb(145, 143, 143);
+    border-radius: 4px;
+}
+
+.card-title{
+    background-image: linear-gradient(to bottom right, rgb(94, 230, 207), rgb(82, 170, 241));
+    box-shadow: 1px 1px 5px rgb(145, 143, 143);
+    color: white;
+    border-radius: 4px;
+    font-size: 20px;
+}
+
+
+.badge-color{
+    
+    background-color: rgb(94, 230, 207);
+    padding: 8px;
+    color: white;
+}
+
+.backbtn{
+    border-radius: 4px;
+    box-shadow: 1px 1px 5px rgb(145, 143, 143);
+}
